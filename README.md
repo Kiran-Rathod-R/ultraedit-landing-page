@@ -1,5 +1,5 @@
 # ultraedit-landing-page
-Responsive UltraEdit landing page built using HTML and CSS
+Responsive UltraEdit landing page built using HTML and CSS.
 
 
 The goal of this project was to practice HTML structure, CSS styling, and UI layout design by replicating a real-world product website.
